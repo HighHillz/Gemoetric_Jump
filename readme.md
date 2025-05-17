@@ -16,11 +16,5 @@ Using pygame, this python code implements a simple game. The game involves a cub
 ## Usage
 No specific use.
 
-## Future Enhancements
-- Add more difficult obstacles.
-- Add highscores.
-- Currency system and shop.
-- Add Areas.
-
 ## Version
 1
